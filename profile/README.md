@@ -1,5 +1,6 @@
-## Hi there 👋
-
+# Hi there 👋
+Welcome to JESSDIGISYS (Jessop Digital Systems)!
+At JDS, we specialize in crafting digital magic, transforming concepts into creation. Explore our repositories and discover innovative web systems and tools designed to empower businesses and bring web dreams to life. ✨
 <!--
 
 **Here are some ideas to get you started:**
@@ -10,3 +11,14 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+## Jessop Digital Systems Organization
+
+### Projects We Are Working On
+
+#### By Priority
+
+- PEC
+- Home Page
+- Science Fair
+- MTTS
+
